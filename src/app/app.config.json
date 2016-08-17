@@ -1,6 +1,6 @@
 {
   "appname": "Rich Repo",
-  "scope": "BuyerAdmin BuyerReader EmailTemplateAdmin EmailTemplateReader FullAccess",
+  "scope": "BuyerAdmin+BuyerReader+EmailTemplateAdmin+EmailTemplateReader+FullAccess",
   "clientid": "01D92430-F3FA-4877-838B-97E59970B22C",
   "buyerid": "Dicks123",
   "environment": "prod",
